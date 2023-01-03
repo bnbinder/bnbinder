@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="hacker-puppy.gif" width="100"/>
 </div>
+
 ### Hello there. My name is Benjamin, and I really like Dogs.... Oh yeah, and coding
 - I’m currently working on my FRC robot and personal pet project website
 - I've gotten to know these languages pretty well: Java, Python, C++, C# (Unity 2D and 3D), HTML, CSS, Javascript
