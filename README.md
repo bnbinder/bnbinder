@@ -29,8 +29,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Java" alt="Java" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Java" alt="Java" width="20" height="20"/>&nbsp;
 - ### Fun fact: 
-  - Ostriches can't fly, but no birds can match their speed on land. Ostriches are the fastest running birds in the world! Scientists have seen ostriches run continuously at speeds of 30-37 mph and sprint up to 43 mph. With their long, strong legs ostriches can cover more than 10 feet in a single stride. - Smithsonian National Zoo
-  
-<div id="ostrich" align="center">
+  - <div id="ostrich" align="center">
   <img src="ostrich.gif" width="500"/>
 </div>
+Ostriches can't fly, but no birds can match their speed on land. Ostriches are the fastest running birds in the world! Scientists have seen ostriches run continuously at speeds of 30-37 mph and sprint up to 43 mph. With their long, strong legs ostriches can cover more than 10 feet in a single stride. - Smithsonian National Zoo
+  
