@@ -13,3 +13,37 @@
   - Love to use Adobe products such as Premiere Pro, After Effects, and Photoshop
 - ### Fun fact: 
   - Ostriches can't fly, but no birds can match their speed on land. Ostriches are the fastest running birds in the world! Scientists have seen ostriches run continuously at speeds of 30-37 mph and sprint up to 43 mph. With their long, strong legs ostriches can cover more than 10 feet in a single stride. - Smithsonian National Zoo
+  
+<div id="ostrich" align="center">
+  <img src="ostrich.gif" width="500"/>
+</div>
+<script>
+// Get the image element
+const image = document.getElementById('ostrich');
+
+// Set the initial position of the image
+let pos = 0;
+
+// Set the speed of the image
+const speed = 10;
+
+// Get the width of the screen
+const screenWidth = window.innerWidth;
+
+// Function to move the image
+const moveImage = () => {
+  // Increment the position by the speed
+  pos += speed;
+
+  // If the image has moved off the screen, reset its position
+  if (pos > screenWidth) {
+    pos = -image.clientWidth;
+  }
+
+  // Update the position of the image
+  image.style.left = pos + 'px';
+}
+
+// Set the image to move every 10 milliseconds
+setInterval(moveImage, 10);
+<script/>
