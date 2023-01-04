@@ -10,7 +10,6 @@
 </div>
 
 <br>
-<br>
 
 ---
 ## What Am I Working On?
