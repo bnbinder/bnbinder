@@ -7,7 +7,7 @@
     Hello There!
   </h1>
   <h2>
-     My name is Benjamin, and I really like Dogs.... oh yeah, and coding 😄
+     My name is Benjamin, and I really like dogs.... oh yeah, and coding 😄
   </h2>
 </div>
 
