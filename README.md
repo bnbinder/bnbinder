@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="hacker-puppy.gif" width="100"/>
+  <img src="hacker-puppy.gif" width="200"/>
 </div>
 
 <div align="center">
