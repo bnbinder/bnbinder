@@ -14,6 +14,7 @@
 ---
 ## What Am I Working On?
   - I’m currently working on my <a href="https://github.com/bossmaster217/Milken-Knights-2021-2023-Base-Code">team's FRC robot<a/> and <a href = "https://github.com/bossmaster217/bossmaster.github.io">personal project website <a/>
+  - Starting to learn <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="20" height="20"/>&nbsp; to help a friend with their website
 
 <br>
   
