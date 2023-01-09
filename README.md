@@ -49,6 +49,7 @@
 ## Fun Stuff About Me
   - <h3>Love to learn new languages and styles</h3>
   - <h3>Started my computer science journey in the third grade with Lego Mindstorms</h3>
+  - <h3>Volunteer at FTC and FLL tournaments</h3>
   - <h3>Love to use Adobe products such as &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="Premiere Pro" width="20" height="20"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects" alt="After Effects" width="20" height="20"/>&nbsp;
