@@ -3,16 +3,14 @@
 </div>
 
 <div align="center">
-  <h1>  
-    Hello There!
-  </h1>
-  My name is Benjamin, and I really like dogs.... oh yeah, and coding 😄
+  <h1>  Hello There! </h1>
+  <h3>My name is Benjamin, and I really like dogs.... oh yeah, and coding 😄</h3>
 </div>
 
 <br>
 
 ---
-## What Am I Working On?
+# What Am I Working On?
   - <h3>I’m currently working on my <a href="https://github.com/bossmaster217/Milken-Knights-2021-2023-Base-Code">team's FRC robot</a>, my <a href = "https://github.com/bossmaster217/bossmaster.github.io">personal project website</a>, and my <a href="https://github.com/bossmaster217/Adafruit-Arm">friends Arduino Arm</a></h3>
   - <h3>Starting to learn <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="20" height="20"/>&nbsp; to help a friend with their website</h3>
   - <h3>Explore my pinned repositories to see what work i'm most proud of / currently working on</h3>
@@ -21,7 +19,7 @@
   
 ---
   
-## What Languages Do I Know?
+# What Languages Do I Know?
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -35,7 +33,7 @@
   
 ---
   
-## Other Resources I've Coded With
+# Other Resources I've Coded With
   <img src="flask.png" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
@@ -47,7 +45,7 @@
   
 ---
   
-## Fun Stuff About Me
+# Fun Stuff About Me
   - Love to learn new languages and styles
   - Started my computer science journey in the third grade with Lego Mindstorms
   - Volunteer at FTC and FLL tournaments
@@ -60,7 +58,7 @@
   
 ---
   
-<h2 align="center">Fun Fact:</h2>
+<h1 align="center">Fun Fact:</h1>
   <div align="center">
     <img src="ostrich.gif"  height= "150"width="300"/>
   </div>
