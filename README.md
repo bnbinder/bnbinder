@@ -13,9 +13,9 @@
 
 ---
 ## What Am I Working On?
-  - I’m currently working on my <a href="https://github.com/bossmaster217/Milken-Knights-2021-2023-Base-Code">team's FRC robot</a>, my <a href = "https://github.com/bossmaster217/bossmaster.github.io">personal project website</a>, and my <a href="https://github.com/bossmaster217/Adafruit-Arm">friends Arduino Arm</a>
-  - Starting to learn <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="20" height="20"/>&nbsp; to help a friend with their website
-  - Explore my pinned repositories to see what work i'm most proud of / currently working on
+  - <h3>I’m currently working on my <a href="https://github.com/bossmaster217/Milken-Knights-2021-2023-Base-Code">team's FRC robot</a>, my <a href = "https://github.com/bossmaster217/bossmaster.github.io">personal project website</a>, and my <a href="https://github.com/bossmaster217/Adafruit-Arm">friends Arduino Arm</a></h3>
+  - <h3>Starting to learn <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="20" height="20"/>&nbsp; to help a friend with their website</h3>
+  - <h3>Explore my pinned repositories to see what work i'm most proud of / currently working on</h3>
 
 <br>
   
@@ -48,14 +48,15 @@
 ---
   
 ## Fun Stuff About Me
-  - <h3>Love to learn new languages and styles</h3>
-  - <h3>Started my computer science journey in the third grade with Lego Mindstorms</h3>
-  - <h3>Volunteer at FTC and FLL tournaments</h3>
-  - <h3>Love to use Adobe products such as &nbsp;
+  - Love to learn new languages and styles
+  - Started my computer science journey in the third grade with Lego Mindstorms
+  - Volunteer at FTC and FLL tournaments
+  - Love to use Adobe products such as &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="Premiere Pro" width="20" height="20"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects" alt="After Effects" width="20" height="20"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="20" height="20"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="20" height="20"/>&nbsp; </h3>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="20" height="20"/>&nbsp; 
+  - Open World videogames are my favorite type of games (favorites include Fallout 4, Far Cry 5, and Assassin's Creed Odyssey)
   
 ---
   
