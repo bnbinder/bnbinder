@@ -12,7 +12,7 @@
 ---
 # What Am I Working On?
   - <h3>I’m currently working on my <a href="https://github.com/themilkenknights/Milken-Knights-Charged-Up">team's FRC robot</a>, my <a href = "https://github.com/bossmaster217/bossmaster.github.io">personal project website</a>, and a <a href="https://github.com/bossmaster217/Adafruit-Arm">friends Arduino Arm</a></h3>
-  - <h3>Starting to learn <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="20" height="20"/>&nbsp; and <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="NodeJS" alt="NodeJS" width="20" height="20"/>&nbsp; for web development</h3>
+  - <h3>Starting to learn <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="20" height="20"/>&nbsp; and <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="20" height="20"/>&nbsp; for web development</h3>
   - <h3>Explore my pinned repositories to see what work i'm most proud of / currently working on</h3>
 
 <br>
