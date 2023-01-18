@@ -54,7 +54,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects" alt="After Effects" width="20" height="20"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="20" height="20"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="20" height="20"/>&nbsp; 
-  - Open World videogames are my favorite type of games (favorites include Fallout 4, Far Cry 5, and Assassin's Creed Odyssey)
+  - Open world videogames are my favorite type of games (favorites include Fallout 4, Far Cry 5, and Assassin's Creed Odyssey)
+  - Favorite music genres: Hip Hop, R&B, and 40s-60s Americana
   
 ---
   
