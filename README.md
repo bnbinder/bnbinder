@@ -51,10 +51,10 @@
   - Started my computer science journey in the third grade with Lego Mindstorms
   - I volunteer at FTC tournaments, usually as an FTA (FIRST Technical Advisor) and Robot Inspector
   - Love to use Adobe products such as &nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="Premiere Pro" width="20" height="20"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects" alt="After Effects" width="20" height="20"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="20" height="20"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="20" height="20"/>&nbsp; 
+    <a href = "https://www.adobe.com/products/premiere.html"><img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="Premiere Pro" width="20" height="20"/></a>&nbsp;
+    <a href = "https://www.adobe.com/products/aftereffects.html"><img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects" alt="After Effects" width="20" height="20"/></a>&nbsp;
+    <a href = "https://www.adobe.com/products/illustrator.html"><img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="20" height="20"/></a>&nbsp;
+    <a href = "https://www.adobe.com/products/photoshop.html"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="20" height="20"/></a>&nbsp; 
   - Open world videogames are my favorite type of games (favorites include Fallout 4, Far Cry 5, and Assassin's Creed Odyssey)
   - Favorite music genres include: Hip Hop, R&B, and 40s-60s Americana
   
