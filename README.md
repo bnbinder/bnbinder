@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>  Hello There! <a href = "https://www.buymeacoffee.com/bbinder217" target="_blank">🚀</a></h1>
+  <h1>  Hello There! <a href = "https://www.buymeacoffee.com/bbinder217">🚀</a></h1>
   <h3>My name is Benjamin, and I really like dogs.... oh yeah, and coding 😄</h3>
 </div>
 
@@ -11,7 +11,7 @@
 
 ---
 # What Am I Working On?
-  - <h3>I’m currently working on my <a href="https://github.com/themilkenknights/Milken-Knights-Charged-Up" target="_blank">team's FRC robot</a>, my <a href = "https://github.com/bossmaster217/bossmaster.github.io" target="_blank">personal project website</a>, and a <a href="https://github.com/bossmaster217/Adafruit-Arm" target="_blank">friends Arduino Arm</a></h3>
+  - <h3>I’m currently working on my <a href="https://github.com/themilkenknights/Milken-Knights-Charged-Up">team's FRC robot</a>, my <a href = "https://github.com/bossmaster217/bossmaster.github.io">personal project website</a>, and a <a href="https://github.com/bossmaster217/Adafruit-Arm">friends Arduino Arm</a></h3>
   - <h3>Starting to learn <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="20" height="20"/>&nbsp; and <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="20" height="20"/>&nbsp; for web development</h3>
   - <h3>Explore my pinned repositories to see what work i'm most proud of / currently working on</h3>
 
@@ -20,27 +20,27 @@
 ---
 <div id="header" align="center">
 <h1>What Languages Do I Know?</h1>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40"
-  height="40"/>&nbsp;
+  <a href = "https://www.java.com/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
+  <a href = "https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
+  <a href = "https://isocpp.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/></a>&nbsp;
+  <a href = "https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/></a>&nbsp;
+  <a href = "https://html.spec.whatwg.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/></a>&nbsp; 
+  <a href = "https://www.w3.org/TR/CSS/#css"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/></a>&nbsp;
+  <a href = "https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40"   
+  height="40"/></a>&nbsp;
 </div>
 <br>
   
 ---
 <div id="header" align="center">
 <h1>Other Resources I've Coded With</h1>
-  <img src="flask.png" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="unity3.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="expo.png" title="Expo" alt="Expo" width="40" height="40"/>&nbsp;
+  <a href = "https://flask.palletsprojects.com/en/"><img src="flask.png" title="Flask" alt="Flask" width="40" height="40"/></a>&nbsp;
+  <a href = "https://www.arduino.cc/"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/></a>&nbsp;
+  <a href = "https://jquery.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Jquery" alt="Jquery" width="40" height="40"/></a>&nbsp;
+  <a href = "https://opencv.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/></a>&nbsp;
+  <a href = "https://www.selenium.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/></a>&nbsp;
+  <a href = "https://unity.com/"><img src="unity3.png" title="Unity" alt="Unity" width="40" height="40"/></a>&nbsp;
+  <a href = "https://expo.dev/"><img src="expo.png" title="Expo" alt="Expo" width="40" height="40"/></a>&nbsp;
 </div>
 <br>
   
