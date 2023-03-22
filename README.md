@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="hacker-puppy.gif" width="200"/>
+  <a href = "https://www.google.com/search?q=adopt+a+dog"><img src="hacker-puppy.gif" width="200"/></a>
 </div>
 
 <div align="center">
