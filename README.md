@@ -34,7 +34,7 @@
 ---
 <div id="header" align="center">
 <h1>Other Resources I've Coded With</h1>
-  <a href = "https://flask.palletsprojects.com/en/"><img src="flask.png" title="Flask" alt="Flask" width="40" height="40"/></a>&nbsp;
+  <a href = "https://flask.palletsprojects.com/en/2.2.x/"><img src="flask.png" title="Flask" alt="Flask" width="40" height="40"/></a>&nbsp;
   <a href = "https://www.arduino.cc/"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/></a>&nbsp;
   <a href = "https://jquery.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Jquery" alt="Jquery" width="40" height="40"/></a>&nbsp;
   <a href = "https://opencv.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/></a>&nbsp;
