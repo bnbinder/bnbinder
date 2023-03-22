@@ -40,6 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="unity3.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="expo.png" title="Expo" alt="Expo" width="40" height="40"/>&nbsp;
 </div>
 <br>
   
