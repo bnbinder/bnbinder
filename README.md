@@ -1,4 +1,4 @@
-check out the emojis, <br>
+check out the graphics, <br>
 most are clickable!
 <div id="header" align="center">
   <a href = "https://www.google.com/search?q=adopt+a+dog"><img src="hacker-puppy.gif" width="200"/></a>
@@ -6,7 +6,7 @@ most are clickable!
 
 <div align="center">
   <h1>  Hello There! <a href = "https://www.buymeacoffee.com/bbinder217">🚀</a></h1>
-  <h3>My name is Benjamin, and I really like dogs.... oh yeah, and coding 😄</h3>
+  <h3>My name is Benjamin, and I really like dogs.... oh yeah, and coding <a href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ">😄</a></h3>
 </div>
 
 <br>
