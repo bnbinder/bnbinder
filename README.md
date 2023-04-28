@@ -1,3 +1,5 @@
+check out the emojis, <br>
+most are clickable!
 <div id="header" align="center">
   <a href = "https://www.google.com/search?q=adopt+a+dog"><img src="hacker-puppy.gif" width="200"/></a>
 </div>
