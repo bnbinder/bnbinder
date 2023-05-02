@@ -27,7 +27,7 @@ most are clickable!
 <div id="header" align="center">
 <h1>What Languages Do I Know?</h1>
   </div>
-  <img src = cattype.gif width="100"height="100"align="right">
+  <img src = cattype2.gif width="100"height="100"align="right">
   <img src = monkeytype.gif width="100"height="100"align="left">
   <div id="header" align="center">
   <a href = "https://www.java.com/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
