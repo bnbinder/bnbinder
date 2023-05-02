@@ -28,7 +28,7 @@ most are clickable!
 <h1>What Languages Do I Know?</h1>
   </div>
   <img src = cattype.gif width="100"height="100"align="right">
-  <img src = cattype.gif width="100"height="100"align="left">
+  <img src = monkeytype.gif width="100"height="100"align="left">
   <div id="header" align="center">
   <a href = "https://www.java.com/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
   <a href = "https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
@@ -46,6 +46,10 @@ most are clickable!
 ---
 <div id="header" align="center">
 <h1>Other Resources I've Coded With</h1>
+</div>
+<img src = racctype.gif width="100"height="100"align="right">
+  <img src = dogtype.gif width="100"height="100"align="left">
+  <div id="header" align="center">
   <a href = "https://flask.palletsprojects.com/en/2.2.x/"><img src="flask.png" title="Flask" alt="Flask" width="40" height="40"/></a>&nbsp;
   <a href = "https://www.arduino.cc/"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/></a>&nbsp;
   <a href = "https://jquery.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Jquery" alt="Jquery" width="40" height="40"/></a>&nbsp;
