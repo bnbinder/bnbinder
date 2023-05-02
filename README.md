@@ -13,7 +13,9 @@ most are clickable!
   <h1>  Hello There! <a href = "https://www.buymeacoffee.com/bbinder217">🚀</a></h1>
   <h3>My name is Benjamin, and I really like dogs.... oh yeah, and coding <a href = "https://www.youtube.com/watch?v=klfT41uZniI">😄</a></h3>
 </div>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bossmaster217&count_private=true&show_icons=true&theme=dark">
+</p>
 <br>
 
 ---
