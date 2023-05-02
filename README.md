@@ -42,12 +42,13 @@ most are clickable!
   <a href = "https://www.markdownguide.org/"><img src="markdown.png" title="Markdown" alt="Markdown" width="40" height="40"/></a>&nbsp;
 </div>
 <br>
+<br>
   
 ---
 <div id="header" align="center">
 <h1>Other Resources I've Coded With</h1>
 </div>
-<img src = racctype.gif width="100"height="100"align="right">
+  <img src = racctype.gif width="100"height="100"align="right">
   <img src = dogtype.gif width="100"height="100"align="left">
   <div id="header" align="center">
   <a href = "https://flask.palletsprojects.com/en/2.2.x/"><img src="flask.png" title="Flask" alt="Flask" width="40" height="40"/></a>&nbsp;
@@ -59,7 +60,8 @@ most are clickable!
   <a href = "https://expo.dev/"><img src="expo.png" title="Expo" alt="Expo" width="40" height="40"/></a>&nbsp;
 </div>
 <br>
-  
+<br> 
+
 ---
   
 # Fun Stuff About Me
