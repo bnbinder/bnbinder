@@ -19,7 +19,10 @@ most are clickable!
 <br>
 
 ---
-# What Am I Working On?
+<div id="header" align="center">
+<h1>What Am I Working On?</h1>
+  </div>
+  
   - <h3>I’m currently working on my <a href="https://github.com/themilkenknights/Milken-Knights-Charged-Up">team's FRC robot</a>, my <a href = "https://github.com/bossmaster217/bossmaster.github.io">personal project website</a>, and a <a href = "https://github.com/bossmaster217/BeJewish"> BeReal esque app</a> with a Jewish twist
   - <h3>Explore my pinned repositories to see what work i'm most proud of / currently working on</h3>
 
@@ -65,8 +68,11 @@ most are clickable!
 <br> 
 
 ---
+
+<div id="header" align="center"> 
+<h1 align="center">Fun Stuff About Me</h1>
+  </div>
   
-# Fun Stuff About Me
   - Love to learn new languages and styles
   - Started my computer science journey in the third grade with Lego Mindstorms
   - I volunteer at FTC tournaments, usually as an FTA (FIRST Technical Advisor) and Robot Inspector
