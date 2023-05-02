@@ -27,8 +27,8 @@ most are clickable!
 <div id="header" align="center">
 <h1>What Languages Do I Know?</h1>
   </div>
-  <img src = https://thumbs.gfycat.com/TerribleDiscreteHornedtoad-max-1mb.gif width="200"height="200"align="left">
-  <img src = https://thumbs.gfycat.com/TerribleDiscreteHornedtoad-max-1mb.gif width="200"height="200"align="right">
+  <img src = soyleft.png width="200"height="200"align="right">
+  <img src = soyright.png width="200"height="200"align="left">
   <div id="header" align="center">
   <a href = "https://www.java.com/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
   <a href = "https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
