@@ -2,13 +2,7 @@ check out the graphics, <br>
 most are clickable!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines='Touch%20Grass'%20I%20can't%20I%20EATED%20it%20all%20💔%20💔%20💔;Zeeple%20florp%20reeb%20cymt.%20Wooba%20dee%20yibblesnort%20wombo%20ubatuba.%20Greeksnorp.;tummy%20ache%20survivor;We%20have%20nothing%20to%20fear%20but%20big%20scary%20monsters%20aahhh%20-%20FDR;awww%20the%20skrunkly%20🥰🥺🥺%20double%20tap%20now%20if%20you'd%20skrunkly%20the%20when%20😆;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Example Usage - README Typing SVG">
-</p>
-
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines='Touch+Grass'+I+can't+I+EATED+it+all+💔+💔+💔;Zeeple+florp+reeb+cymt.+Wooba+dee+yibblesnort+wombo+ubatuba.+Greeksnorp.;tummy+ache+survivor;We+have+nothing+to+fear+but+big+scary+monsters+aahhh+-FDR;awww+the+skrunkly+🥰🥺🥺+double+tap+now+if+you'd+skrunkly+the+when+😆;&font=Fira%20Code&center=true&width=1000&height=50&duration=4000&pause=1000&size=20" alt="Example Usage - README Typing SVG">
 </p>
 
 <div id="header" align="center">
