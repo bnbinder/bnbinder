@@ -80,7 +80,7 @@ most are clickable!
   </div>
   
   - Love to learn new languages and styles
-  - Started my computer science journey in the third grade with Lego Mindstorms
+  - Started my computer science and robotics journey in the third grade with Lego Mindstorms
   - I volunteer at FTC tournaments, usually as an FTA (FIRST Technical Advisor) and Robot Inspector
   - Love to use Adobe products such as &nbsp;
     <a href = "https://www.adobe.com/products/premiere.html"><img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="Premiere Pro" width="20" height="20"/></a>&nbsp;
