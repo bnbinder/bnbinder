@@ -68,6 +68,7 @@ most are clickable!
   <a href = "https://www.selenium.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/></a>&nbsp;
   <a href = "https://unity.com/"><img src="unity3.png" title="Unity" alt="Unity" width="40" height="40"/></a>&nbsp;
   <a href = "https://expo.dev/"><img src="expo.png" title="Expo" alt="Expo" width="40" height="40"/></a>&nbsp;
+  <a href = "https://openai.com/blog/openai-api"><img src="openai.svg" title="OpenAI" alt="OpenAI" width="40" height="40"/></a>&nbsp;
 </div>
 <br>
 <br> 
