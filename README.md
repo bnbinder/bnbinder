@@ -48,7 +48,8 @@ most are clickable!
    <a href = "https://react.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
   <a href = "https://www.markdownguide.org/"><img src="markdown.png" title="Markdown" alt="Markdown" width="40" height="40"/></a>&nbsp;
   <a href = "https://scratch.mit.edu/"><img src="scratch.png" title="Scratch" alt="Scratch" width="40" height="40"/></a>&nbsp;
-  <a href = https://www.robotc.net/><img src="robotc.png" title="RobotC" alt="RobotC" width="40" height="40"/></a>&nbsp;
+  <a href = "https://www.robotc.net/"><img src="robotc.png" title="RobotC" alt="RobotC" width="40" height="40"/></a>&nbsp;
+  <a href = "https://education.lego.com/en-us/downloads/retiredproducts/nxt/software"/><img src="nxt.png" title="NXT" alt="NXT" width="40" height="40"/></a>&nbsp;
 </div>
 <br>
 <br>
