@@ -17,9 +17,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bossmaster217&count_private=true&include_all_commits=true&count_private=true&show_icons=true&theme=dark">
   <br>
-  <a href = "https://www.linkedin.com/in/bbinder2170/"><img src = "https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=LinkedIn"></a>
-  <br>
-  <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbossmaster217%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+  <div align="center">
+    <a href = "https://www.linkedin.com/in/bbinder2170/"><img src = "https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=LinkedIn"></a>
+  </div>
+  <div align="center">
+    <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbossmaster217%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+  </div>
 </p>
 <br>
 
