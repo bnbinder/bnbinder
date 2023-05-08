@@ -6,7 +6,8 @@
 </p>
 
 <div id="header" align="center">
-  <a href = "https://www.google.com/search?q=adopt+a+dog"><img src="hacker-puppy.gif" width="200"/></a>
+  <a href = "https://www.google.com/search?q=adopt+a+dog"><img src="hacker-puppy.gif" width="200"/></a><br>
+  <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbossmaster217%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </div>
 
 <div align="center">
@@ -21,10 +22,6 @@
     <a href = "https://www.linkedin.com/in/bbinder2170/"><img src = "https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=LinkedIn" /></a>
     <a href = "https://instagram.com/bossmaster217?igshid=NTc4MTIwNjQ2YQ=="><img src = "https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=black" /></a>
     <a href = "https://www.buymeacoffee.com/bbinder217"><img src = "https://img.shields.io/badge/-buymeacoffee-blue?style=for-the-badge&logo=buymeacoffee&logoColor=yellow" /></a>
-  </div>
-  
-  <div align="center">
-    <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbossmaster217%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
   </div>
 </p>
 <br>
