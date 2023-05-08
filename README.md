@@ -1,10 +1,8 @@
-https://instagram.com/bossmaster217?igshid=NTc4MTIwNjQ2YQ==
-
 >check out the graphics, <br>
 >most are clickable!
 
 <p align="center">
-  <img width = 1000 src="https://readme-typing-svg.demolab.com/?lines='Touch+Grass'+I+can't+I+EATED+it+all+💔+💔+💔;Zeeple+florp+reeb+cymt.+Wooba+dee+yibblesnort+wombo+ubatuba.+Greeksnorp.;tummy+ache+survivor;We+have+nothing+to+fear+but+big+scary+monsters+aahhh+-FDR;awww+the+skrunkly+🥰🥺🥺+double+tap+now+if+you'd+skrunkly+the+when+😆;&font=Fira%20Code&center=true&width=1000&height=50&duration=4000&pause=1000&size=20" alt="Example Usage - README Typing SVG">
+  <img width = 1000 src="https://readme-typing-svg.demolab.com/?lines='Touch+Grass'+I+can't+I+EATED+it+all+💔+💔+💔;Zeeple+florp+reeb+cymt.+Wooba+dee+yibblesnort+wombo+ubatuba.+Greeksnorp.;tummy+ache+survivor;We+have+nothing+to+fear+but+big+scary+monsters+aahhh+-FDR;awww+the+skrunkly+🥰🥺🥺+double+tap+now+if+you'd+skrunkly+the+when+😆;&font=Fira%20Code&center=true&width=1000&height=50&duration=4000&pause=1000&size=20" alt="Example Usage - README Typing SVG" />
 </p>
 
 <div id="header" align="center">
@@ -12,18 +10,21 @@ https://instagram.com/bossmaster217?igshid=NTc4MTIwNjQ2YQ==
 </div>
 
 <div align="center">
-  <h1>  Hello There! <a href = "https://www.buymeacoffee.com/bbinder217">🚀</a></h1>
+  <h1>Hello There!</h1>
   <h3>My name is Benjamin, and I really like dogs.... oh yeah, and coding <a href = "https://www.youtube.com/watch?v=klfT41uZniI">😄</a></h3>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bossmaster217&count_private=true&include_all_commits=true&count_private=true&show_icons=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=bossmaster217&count_private=true&include_all_commits=true&count_private=true&show_icons=true&theme=dark" />
   <br>
   <div align="center">
-    <a href = "https://www.linkedin.com/in/bbinder2170/"><img src = "https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=LinkedIn"></a>
+    <a href = "https://www.linkedin.com/in/bbinder2170/"><img src = "https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=LinkedIn" /></a>
+    <a href = "https://instagram.com/bossmaster217?igshid=NTc4MTIwNjQ2YQ=="><img src = "https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=black" /></a>
+    <a href = "https://www.buymeacoffee.com/bbinder217"><img src = "https://img.shields.io/badge/-buymeacoffee-blue?style=for-the-badge&logo=buymeacoffee&logoColor=yellow" /></a>
   </div>
+  
   <div align="center">
-    <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbossmaster217%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+    <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbossmaster217%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
   </div>
 </p>
 <br>
@@ -42,8 +43,8 @@ https://instagram.com/bossmaster217?igshid=NTc4MTIwNjQ2YQ==
 <div id="header" align="center">
   <h1>What Languages Do I Know?</h1>
 </div>
-<img src = cattype3.gif width="100"height="100"align="right">
-<img src = monkeytype.gif width="100"height="100"align="left">
+<img src = cattype3.gif width="100"height="100"align="right" />
+<img src = monkeytype.gif width="100"height="100"align="left" />
   
 <div id="header" align="center">
   <a href = "https://www.java.com/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
@@ -66,8 +67,8 @@ https://instagram.com/bossmaster217?igshid=NTc4MTIwNjQ2YQ==
 <div id="header" align="center">
   <h1>Other Resources I've Coded With</h1>
 </div>
-  <img src = racctype.gif width="100"height="100"align="right">
-  <img src = dogtype.gif width="100"height="100"align="left">
+  <img src = racctype.gif width="100"height="100"align="right" />
+  <img src = dogtype.gif width="100"height="100"align="left" />
   
 <div id="header" align="center">
   <a href = "https://flask.palletsprojects.com/en/2.2.x/"><img src="flask.png" title="Flask" alt="Flask" width="40" height="40"/></a>&nbsp;
