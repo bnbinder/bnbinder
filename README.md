@@ -11,13 +11,13 @@
   <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="light.jpg">
-    <img width=400>
+    <img width=400 alt = "hello">
   </picture>
   </p>
   <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dark.jpg">
-    <img width=400>
+    <img width=400  alt = "hello">
   </picture>
   </p>
   <!--
