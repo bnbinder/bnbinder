@@ -8,7 +8,14 @@
   <!---
   <a href = "https://www.google.com/search?q=adopt+a+dog">
   -->
-  <img src="IMG_88468.jpg" width="400"/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="light.jpg">
+    <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'"  width=400>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark.jpg">
+    <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'"  width=400>
+  </picture>
   <!--
   </a>
   -->
