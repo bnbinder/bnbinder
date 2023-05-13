@@ -11,13 +11,13 @@
   <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="light.jpg">
-    <img width=400 alt = "there is a bug with github markdown. I have made a discussion in the mobile section of github discussions. If you want to see this great image of me, view it on computer. otherwise, hi"/>
+    <img width=400 alt = "t">
   </picture>
   </p>
   <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dark.jpg">
-    <img width=400  alt = "there is a bug with github markdown. I have made a discussion in the mobile section of github discussions. If you want to see this great image of me, view it on computer. otherwise, hi"/>
+    <img width=400  alt = "th">
   </picture>
   </p>
   <!--
