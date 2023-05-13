@@ -4,6 +4,7 @@
 <p align="center">
   <img width = 1000 src="https://readme-typing-svg.demolab.com/?lines='Touch+Grass'+I+can't+I+EATED+it+all+💔+💔+💔;Zeeple+florp+reeb+cymt.+Wooba+dee+yibblesnort+wombo+ubatuba.+Greeksnorp.;tummy+ache+survivor;We+have+nothing+to+fear+but+big+scary+monsters+aahhh+-FDR;awww+the+skrunkly+🥰🥺🥺+double+tap+now+if+you'd+skrunkly+the+when+😆;&font=Fira%20Code&center=true&width=1000&height=50&duration=4000&pause=1000&size=20" alt="Example Usage - README Typing SVG" />
 </p>
+
 <div id="header" align="center">
   <!---
   <a href = "https://www.google.com/search?q=adopt+a+dog">
@@ -11,13 +12,13 @@
   <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="light.jpg">
-    <img width=400 alt = "t">
+    <img width=400 alt = "there is a bug with github markdown. I have made a discussion in the mobile section of github discussions. If you want to see this great image of me, view it on computer. otherwise, hi"/>
   </picture>
   </p>
   <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dark.jpg">
-    <img width=400  alt = "th">
+    <img width=400  alt = "there is a bug with github markdown. I have made a discussion in the mobile section of github discussions. If you want to see this great image of me, view it on computer. otherwise, hi"/>
   </picture>
   </p>
   <!--
