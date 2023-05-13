@@ -26,8 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bossmaster217&count_private=true&include_all_commits=true&count_private=true&show_icons=true&theme=dark" />
   <br>
   <div align="center">
-    <img src = dance2.gif width="100"height="100"align="right" />
-<img src = dance.gif width="100"height="100"align="left" />
     <a href = "https://www.linkedin.com/in/bbinder2170/"><img src = "https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=LinkedIn" /></a>
     <a href = "https://instagram.com/bossmaster217?igshid=NTc4MTIwNjQ2YQ=="><img src = "https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=black" /></a>
     <a href = "https://www.buymeacoffee.com/bbinder217"><img src = "https://img.shields.io/badge/-buymeacoffee-blue?style=for-the-badge&logo=buymeacoffee&logoColor=yellow" /></a>
