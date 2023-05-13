@@ -2,7 +2,7 @@
 >most are clickable!
 
 <p align="center">
-  <img width = 1000 src="https://readme-typing-svg.demolab.com/?lines='Touch+Grass'+I+can't+I+EATED+it+all+💔+💔+💔;Zeeple+florp+reeb+cymt.+Wooba+dee+yibblesnort+wombo+ubatuba.+Greeksnorp.;tummy+ache+survivor;We+have+nothing+to+fear+but+big+scary+monsters+aahhh+-FDR;awww+the+skrunkly+🥰🥺🥺+double+tap+now+if+you'd+skrunkly+the+when+😆;&font=Fira%20Code&center=true&width=1000&height=50&duration=4000&pause=1000&size=20" alt="Example Usage - README Typing SVG" />
+  <img width = 1000 src="https://readme-typing-svg.demolab.com/?lines='Touch+Grass'+I+can't+I+EATED+it+all+💔+💔+💔;Zeeple+florp+reeb+cymt.+Wooba+dee+yibblesnort+wombo+ubatuba.+Greeksnorp.;tummy+ache+survivor;We+have+nothing+to+fear+but+big+scary+monsters+aahhh+-FDR;awww+the+skrunkly+🥰🥺🥺+double+tap+now+if+you'd+skrunkly+the+when+😆;&font=Fira%20Code&center=true&width=1000&height=200&duration=4000&pause=1000&size=20" alt="Example Usage - README Typing SVG" />
 </p>
 
 <div id="header" align="center">
