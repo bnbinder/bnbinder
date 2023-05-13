@@ -8,7 +8,7 @@
 <div id="header" align="center">
   <!---
   <a href = "https://www.google.com/search?q=adopt+a+dog">
-  -->
+  
   <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="light.jpg">
@@ -21,6 +21,8 @@
     <img width=400  alt = "view on computer pls"/>
   </picture>
   </p>
+  -->
+  <img src = "IMG_88468.jpg" width=400/>
   <!--
   </a>
   -->
