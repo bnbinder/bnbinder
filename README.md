@@ -13,13 +13,13 @@
   <p align="center">
   <picture>
     <source media="prefers-color-scheme: light" srcset="light.jpg">
-    <img width=400 alt = "view on computer pls"/>
+    <img width=200 alt = "view on computer pls"/>
   </picture>
   </p>
   <p align="center">
   <picture>
     <source media="prefers-color-scheme: dark" srcset="dark.jpg">
-    <img width=400  alt = "view on computer pls"/>
+    <img width=200  alt = "view on computer pls"/>
   </picture>
   </p>
   
