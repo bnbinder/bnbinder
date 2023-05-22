@@ -9,7 +9,7 @@
   <!---
   <a href = "https://www.google.com/search?q=adopt+a+dog">
   -->
-  
+  <!---
   <p align="center">
   <picture>
     <source media="prefers-color-scheme: light" srcset="light.jpg">
@@ -22,12 +22,14 @@
     <img width=400  alt = "view on computer pls"/>
   </picture>
   </p>
-  
- 
-  <!--
-  </a>
- <img src = "IMG_88468.jpg" width=400/>
   -->
+  
+
+  <!---
+  </a>
+  -->
+ <img src = "IMG_88468.jpg" width=400/>
+  
   <br>
   <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbossmaster217%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </div>
