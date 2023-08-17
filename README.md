@@ -45,7 +45,7 @@
   <br>
   <div align="center">
     <a href = "https://www.linkedin.com/in/bbinder2170/"><img src = "https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=LinkedIn" /></a>
-    <a href = "https://instagram.com/bossmaster217?igshid=NTc4MTIwNjQ2YQ=="><img src = "https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=black" /></a>
+    <!--<a href = "https://instagram.com/bossmaster217?igshid=NTc4MTIwNjQ2YQ=="><img src = "https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=black" /></a>-->
     <a href = "https://www.buymeacoffee.com/bbinder217"><img src = "https://img.shields.io/badge/-buymeacoffee-blue?style=for-the-badge&logo=buymeacoffee&logoColor=yellow" /></a>
   </div>
 </p>
