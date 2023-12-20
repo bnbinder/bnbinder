@@ -2,7 +2,7 @@
 >most are clickable!
 
 <p align="center">
-  <img width = 1000 src="https://readme-typing-svg.demolab.com/?lines='Touch+Grass'+I+can't+I+EATED+it+all+💔+💔+💔;Zeeple+florp+reeb+cymt.+Wooba+dee+yibblesnort+wombo+ubatuba.+Greeksnorp.;tummy+ache+survivor;We+have+nothing+to+fear+but+big+scary+monsters+aahhh+-FDR;awww+the+skrunkly+🥰🥺🥺+double+tap+now+if+you'd+skrunkly+the+when+😆;&font=Fira%20Code&center=true&width=1000&height=50&duration=4000&pause=1000&size=20" alt="Example Usage - README Typing SVG" />
+  <img width = 1000 src="https://readme-typing-svg.demolab.com/?lines=Benjamin+Binder;Computer+Science+At+WPI;&font=Fira%20Code&center=true&width=1000&height=50&duration=2000&pause=500&size=20" alt="Example Usage - README Typing SVG" />
 </p>
 
 <div id="header" align="center">
@@ -35,8 +35,7 @@
 </div>
 
 <div align="center">
-  <h1>Hello There!</h1>
-  <h3>My name is Benjamin, and I really like dogs.... oh yeah, and coding <a href = "https://www.youtube.com/watch?v=klfT41uZniI">😄</a></h3>
+  <h1>Hello There! Welcome To </h1>
 </div>
 
 
@@ -46,7 +45,7 @@
   <div align="center">
     <a href = "https://www.linkedin.com/in/bbinder2170/"><img src = "https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=LinkedIn" /></a>
     <!--<a href = "https://instagram.com/bossmaster217?igshid=NTc4MTIwNjQ2YQ=="><img src = "https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=black" /></a>-->
-    <a href = "https://www.buymeacoffee.com/bbinder217"><img src = "https://img.shields.io/badge/-buymeacoffee-blue?style=for-the-badge&logo=buymeacoffee&logoColor=yellow" /></a>
+  <!---  <a href = "https://www.buymeacoffee.com/bbinder217"><img src = "https://img.shields.io/badge/-buymeacoffee-blue?style=for-the-badge&logo=buymeacoffee&logoColor=yellow" /></a>--->
   </div>
 </p>
 <br>
@@ -119,10 +118,10 @@
     <a href = "https://www.adobe.com/products/aftereffects.html"><img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects" alt="After Effects" width="20" height="20"/></a>&nbsp;
     <a href = "https://www.adobe.com/products/illustrator.html"><img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="20" height="20"/></a>&nbsp;
     <a href = "https://www.adobe.com/products/photoshop.html"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="20" height="20"/></a>&nbsp; 
-  - Open world videogames are my favorite type of games (favorites include Fallout 4, Far Cry 5, and Assassin's Creed Odyssey)
-  - Favorite music genres include: Hip Hop, R&B, and 40s-60s Americana
+<!--- - Open world videogames are my favorite type of games (favorites include Fallout 4, Far Cry 5, and Assassin's Creed Odyssey)
+  - Favorite music genres include: Hip Hop, R&B, and 40s-60s Americana--->
   - Attended the 2023 FRC CHARGED UP Championship in Houston, Texas 
-  
+  <!---
 ---
   
 <h1 align="center">Fun Fact:</h1>
@@ -131,4 +130,4 @@
   <a href="https://nationalzoo.si.edu/animals/news/how-fast-ostrich-and-more-fun-facts#:~:text=Ostriches%20can't%20fly%2C%20but,feet%20in%20a%20single%20stride."><img src="ostrich.gif"  height= "150"width="300"/></a>
 </div>
 
-<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ostriches can't fly, but no birds can match their speed on land. Ostriches are the fastest <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;running birds in the world! Scientists have seen ostriches run continuously at speeds of <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30-37 mph and sprint up to 43 mph. With their long, strong legs ostriches can cover <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;more than 10 feet in a single stride. - Smithsonian National Zoo </p>
+<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ostriches can't fly, but no birds can match their speed on land. Ostriches are the fastest <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;running birds in the world! Scientists have seen ostriches run continuously at speeds of <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30-37 mph and sprint up to 43 mph. With their long, strong legs ostriches can cover <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;more than 10 feet in a single stride. - Smithsonian National Zoo </p>--->
