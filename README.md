@@ -62,7 +62,7 @@
   
 ---
 <div id="header" align="center">
-  <h1>What Languages Do I Know?</h1>
+  <h1>What Languages Have I Worked With?</h1>
 </div>
 <img src = cattype3.gif width="100"height="100"align="right" />
 <img src = monkeytype.gif width="100"height="100"align="left" />
