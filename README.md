@@ -40,7 +40,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bossmaster217&count_private=true&include_all_commits=true&count_private=true&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bnbinder&count_private=true&include_all_commits=true&count_private=true&show_icons=true&theme=dark" />
   <br>
   <div align="center">
     <a href = "https://www.linkedin.com/in/bbinder2170/"><img src = "https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=LinkedIn" /></a>
