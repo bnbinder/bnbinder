@@ -1,5 +1,5 @@
->check out the graphics, <br>
->most are clickable!
+>Last Updated: <br>
+>1/28/24
 
 <p align="center">
   <img width = 1000 src="https://readme-typing-svg.demolab.com/?lines=Benjamin+Binder;Computer+Science+At+WPI;&font=Fira%20Code&center=true&width=1000&height=50&duration=2000&pause=500&size=20" alt="Example Usage - README Typing SVG" />
@@ -78,7 +78,7 @@
   <a href = "https://www.w3.org/TR/CSS/#css"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/></a>&nbsp;
   <a href = "https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/></a>&nbsp;
   <a href = "https://react.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
-  <a href = "https://racket-lang.org/"/><img src="racket.svg" title="Racket" alt="Racket" width="40" height="40"/></a>&nbsp;
+  <a href = "https://racket-lang.org/"/><img src="racket.png" title="Racket" alt="Racket" width="40" height="40"/></a>&nbsp;
   <a href = "https://www.markdownguide.org/"><img src="markdown.png" title="Markdown" alt="Markdown" width="40" height="40"/></a>&nbsp;
   <a href = "https://scratch.mit.edu/"><img src="scratch.png" title="Scratch" alt="Scratch" width="40" height="40"/></a>&nbsp;
   <a href = "https://www.robotc.net/"><img src="robotc.png" title="RobotC" alt="RobotC" width="40" height="40"/></a>&nbsp;
