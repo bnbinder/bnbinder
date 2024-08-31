@@ -1,5 +1,5 @@
 >Last Updated: <br>
->1/28/24
+>8/31/24
 
 <p align="center">
   <img width = 1000 src="https://readme-typing-svg.demolab.com/?lines=Benjamin+Binder;Computer+Science+At+WPI;&font=Fira%20Code&center=true&width=1000&height=50&duration=2000&pause=500&size=20" alt="Example Usage - README Typing SVG" />
