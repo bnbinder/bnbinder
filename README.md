@@ -100,7 +100,6 @@
   <a href = "https://www.arduino.cc/"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/></a>&nbsp;
   <a href = "https://jquery.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Jquery" alt="Jquery" width="40" height="40"/></a>&nbsp;
   <a href = "https://www.selenium.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/></a>&nbsp;
-  <a href = "https://unity.com/"><img src="unity3.png" title="Unity" alt="Unity" width="40" height="40"/></a>&nbsp;
   <a href = "https://expo.dev/"><img src="expo.png" title="Expo" alt="Expo" width="40" height="40"/></a>&nbsp;
   <a href = "https://openai.com/blog/openai-api"><img src="openai.png" title="OpenAI" alt="OpenAI" width="40" height="40"/></a>&nbsp;
   <a href = "https://www.pygame.org/news"><img src="pygame.png" title="PyGame" alt="PyGame" width="40" height="40"/></a>&nbsp;
