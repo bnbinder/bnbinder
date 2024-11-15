@@ -2,7 +2,7 @@
 >11/15/2024
 
 <p align="center">
-  <img width = 1000 src="https://readme-typing-svg.demolab.com/?lines=Benjamin+Binder;Computer+Science+At+WPI;&font=Fira%20Code&center=true&width=1000&height=50&duration=2000&pause=500&size=20" alt="Example Usage - README Typing SVG" />
+  <img width = 1000 src="https://readme-typing-svg.demolab.com/?lines=Benjamin+Binder;CS B.S. %26 RBE Minor @ WPI;&font=Fira%20Code&center=true&width=1000&height=100&duration=4000&pause=500&size=40" alt="Example Usage - README Typing SVG" />
 </p>
 
 <div id="header" align="center">
