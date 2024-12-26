@@ -75,16 +75,12 @@
   <a href = "https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
   <a href = "https://www.cprogramming.com"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/></a>&nbsp;
   <a href = "https://isocpp.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/></a>&nbsp;
-  <a href = "https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/></a>&nbsp;
   <a href = "https://html.spec.whatwg.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/></a>&nbsp; 
   <a href = "https://www.w3.org/TR/CSS/#css"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/></a>&nbsp;
   <a href = "https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/></a>&nbsp;
   <a href = "https://react.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
   <a href = "https://racket-lang.org/"><img src = "racket.png" title="Racket" alt="Racket" width="40" height="40"/></a>&nbsp;
   <a href = "https://www.markdownguide.org/"><img src="markdown.png" title="Markdown" alt="Markdown" width="40" height="40"/></a>&nbsp;
-  <a href = "https://scratch.mit.edu/"><img src="scratch.png" title="Scratch" alt="Scratch" width="40" height="40"/></a>&nbsp;
-  <a href = "https://www.robotc.net/"><img src="robotc.png" title="RobotC" alt="RobotC" width="40" height="40"/></a>&nbsp;
-  <a href = "https://education.lego.com/en-us/downloads/retiredproducts/nxt/software"/><img src="nxt.png" title="NXT" alt="NXT" width="40" height="40"/></a>&nbsp;
 </div>
 <br>
 <br>
@@ -99,8 +95,6 @@
 <div id="header" align="center">
   <a href = "https://huggingface.co/"><img src="huggingface-2.svg" title="HuggingFace" alt="HuggingFace" width="40" height="40"/></a>&nbsp;
   <a href = "https://www.arduino.cc/"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/></a>&nbsp;
-  <a href = "https://jquery.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Jquery" alt="Jquery" width="40" height="40"/></a>&nbsp;
-  <a href = "https://www.selenium.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/></a>&nbsp;
   <a href = "https://expo.dev/"><img src="expo.png" title="Expo" alt="Expo" width="40" height="40"/></a>&nbsp;
   <a href = "https://openai.com/blog/openai-api"><img src="openai.png" title="OpenAI" alt="OpenAI" width="40" height="40"/></a>&nbsp;
   <a href = "https://www.pygame.org/news"><img src="pygame.png" title="PyGame" alt="PyGame" width="40" height="40"/></a>&nbsp;
