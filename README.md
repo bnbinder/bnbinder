@@ -80,7 +80,6 @@
   <a href = "https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/></a>&nbsp;
   <a href = "https://react.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
   <a href = "https://racket-lang.org/"><img src = "racket.png" title="Racket" alt="Racket" width="40" height="40"/></a>&nbsp;
-  <a href = "https://www.markdownguide.org/"><img src="markdown.png" title="Markdown" alt="Markdown" width="40" height="40"/></a>&nbsp;
 </div>
 <br>
 <br>
