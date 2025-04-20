@@ -1,9 +1,11 @@
 >Last Updated: <br>
->1/23/2025
+>4/19/2025
 
-<p align="center">
+<!-- <p align="center">
   <img width = 1000 src="https://readme-typing-svg.demolab.com/?lines=Benjamin+Binder;CS B.S. %26 RBE Minor @ WPI;&font=Fira%20Code&center=true&width=1000&height=100&duration=4000&pause=500&size=40" alt="Example Usage - README Typing SVG" />
-</p>
+</p> -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=500&center=true&width=1000&height=100&lines=Benjamin+Binder;CS+%26+Math+Minor+%40+WPI)](https://git.io/typing-svg)
 
 <div id="header" align="center">
   <!---
@@ -97,6 +99,7 @@
   <a href = "https://expo.dev/"><img src="expo.png" title="Expo" alt="Expo" width="40" height="40"/></a>&nbsp;
   <a href = "https://openai.com/blog/openai-api"><img src="openai.png" title="OpenAI" alt="OpenAI" width="40" height="40"/></a>&nbsp;
   <a href = "https://www.pygame.org/news"><img src="pygame.png" title="PyGame" alt="PyGame" width="40" height="40"/></a>&nbsp;
+  <a href = "https://www.latex-project.org"><img src="latex.png" title="Latex" alt="Latex" width="40" height="40"/></a>&nbsp;
 </div>
 <br>
 <br> 
