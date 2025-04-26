@@ -60,7 +60,7 @@
   <h1>What Am I Working On?</h1>
 </div>
   
-  - <h3>I am a sophmore at WPI! / Student Assistant for CS 3043!!! /  <a href = "https://github.com/bnbinder/NLP-Conversation-Summarizer">working on a text classifier and summarizer with language models and NLP</a></h3> <!--’m currently working on my <a href="https://github.com/themilkenknights/Milken-Knights-Charged-Up">team's FRC robot</a>, my <a href = "https://github.com/bossmaster217/bossmaster.github.io">personal project website</a>, a <a href = "https://github.com/bossmaster217/BeJewish"> BeReal esque app</a> with a Jewish twist, and finishing high school strong--->
+  - <h3>I am a sophmore at WPI! / Student Assistant for CS 3043!!!
   - <h3>Explore my pinned repositories to see what work i'm most proud of / currently working on</h3>
 
 <br>
