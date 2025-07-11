@@ -1,5 +1,5 @@
 >Last Updated: <br>
->4/19/2025
+>7/10/2025
 
 <!-- <p align="center">
   <img width = 1000 src="https://readme-typing-svg.demolab.com/?lines=Benjamin+Binder;CS B.S. %26 RBE Minor @ WPI;&font=Fira%20Code&center=true&width=1000&height=100&duration=4000&pause=500&size=40" alt="Example Usage - README Typing SVG" />
@@ -60,7 +60,7 @@
   <h1>What Am I Working On?</h1>
 </div>
   
-  - <h3>I am a sophmore at WPI! / Student Assistant for CS 3043!!!
+  - <h3>Summer!!! Working at TASES to develop a multiplatform app/website for physical therapists
   - <h3>Explore my pinned repositories to see what work i'm most proud of / currently working on</h3>
 
 <br>
@@ -120,8 +120,12 @@
     <a href = "https://www.adobe.com/products/photoshop.html"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="20" height="20"/></a>&nbsp; 
 <!--- - Open world videogames are my favorite type of games (favorites include Fallout 4, Far Cry 5, and Assassin's Creed Odyssey)
   - Favorite music genres include: Hip Hop, R&B, and 40s-60s Americana--->
-  - Attended the 2023 FRC CHARGED UP Championship in Houston, Texas 
-  <!---
+  - Attended the 2023 FRC CHARGED UP Championship in Houston, Texas
+  - Have been an active member of the WPI Hillel on the Executive Board since Freshman Year
+
+<br>
+<br> 
+
 ---
   
 <h1 align="center">Fun Fact:</h1>
@@ -130,4 +134,4 @@
   <a href="https://nationalzoo.si.edu/animals/news/how-fast-ostrich-and-more-fun-facts#:~:text=Ostriches%20can't%20fly%2C%20but,feet%20in%20a%20single%20stride."><img src="ostrich.gif"  height= "150"width="300"/></a>
 </div>
 
-<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ostriches can't fly, but no birds can match their speed on land. Ostriches are the fastest <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;running birds in the world! Scientists have seen ostriches run continuously at speeds of <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30-37 mph and sprint up to 43 mph. With their long, strong legs ostriches can cover <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;more than 10 feet in a single stride. - Smithsonian National Zoo </p>--->
+<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ostriches can't fly, but no birds can match their speed on land. Ostriches are the fastest <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;running birds in the world! Scientists have seen ostriches run continuously at speeds of <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30-37 mph and sprint up to 43 mph. With their long, strong legs ostriches can cover <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;more than 10 feet in a single stride. - Smithsonian National Zoo </p>
