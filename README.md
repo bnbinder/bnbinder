@@ -122,7 +122,6 @@
   - Favorite music genres include: Hip Hop, R&B, and 40s-60s Americana--->
   - Attended the 2023 FRC CHARGED UP Championship in Houston, Texas
   - Have been an active member of the WPI Hillel on the Executive Board since Freshman Year
-  - Can bench 225
 
 <br>
 <br> 
