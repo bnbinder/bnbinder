@@ -5,7 +5,7 @@
   <img width = 1000 src="https://readme-typing-svg.demolab.com/?lines=Benjamin+Binder;CS B.S. %26 RBE Minor @ WPI;&font=Fira%20Code&center=true&width=1000&height=100&duration=4000&pause=500&size=40" alt="Example Usage - README Typing SVG" />
 </p> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=500&center=true&width=1000&height=100&lines=Benjamin+Binder;CS+%26+Math+Minor+%40+WPI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=500&center=true&width=1000&height=100&lines=Benjamin+Binder;CS+BS+%26+Math+Minor+%40+WPI)](https://git.io/typing-svg)
 
 <div id="header" align="center">
   <!---
