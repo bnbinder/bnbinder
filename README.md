@@ -31,10 +31,11 @@
   </a>
   -->
  <img src = "github.jpeg" width=400/>
-  
+  <!--
   <br>
   <img src = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbnbinder%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </div>
+-->
 
 <div align="center">
   <h1>Hello There! Welcome To My Github.</h1>
@@ -47,8 +48,8 @@
   <br>
   <div align="center">
   --->
-    <a href = "https://www.linkedin.com/in/benjamin-noah-binder/"><img src = "https://img.shields.io/badge/-LinkedIn-grey?style=for-the-badge&logo=LinkedIn" /></a>
-  <a href = "https://wpi.joinhandshake.com/profiles/benjamin_noah_binder"><img src = "https://img.shields.io/badge/-Handshake-orange?style=for-the-badge&logo=Handshake" /></a>
+    <a href = "https://www.linkedin.com/in/benjamin-noah-binder/"><img src = "https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge" /></a>
+  <a href = "https://wpi.joinhandshake.com/profiles/benjamin_noah_binder"><img src = "https://img.shields.io/badge/-Handshake-orange?style=for-the-badge" /></a>
     <!--<a href = "https://instagram.com/bossmaster217?igshid=NTc4MTIwNjQ2YQ=="><img src = "https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=black" /></a>-->
   <!---  <a href = "https://www.buymeacoffee.com/bbinder217"><img src = "https://img.shields.io/badge/-buymeacoffee-blue?style=for-the-badge&logo=buymeacoffee&logoColor=yellow" /></a>--->
   </div>
