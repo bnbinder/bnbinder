@@ -75,7 +75,7 @@
 <div id="header" align="center">
   <a href = "https://www.java.com/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/></a>&nbsp;
   <a href = "https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
-  <a href = "https://www.cprogramming.com"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/></a>&nbsp;
+  <a href = "https://www.cprogramming.com"><img src="c.png" title="C" alt="C" width="40" height="40"/></a>&nbsp;
   <a href = "https://isocpp.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/></a>&nbsp;
   <a href = "https://html.spec.whatwg.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/></a>&nbsp; 
   <a href = "https://www.w3.org/TR/CSS/#css"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/></a>&nbsp;
@@ -116,8 +116,8 @@
   - Love to use Adobe products such as &nbsp;
     <a href = "https://www.adobe.com/products/premiere.html"><img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="Premiere Pro" width="20" height="20"/></a>&nbsp;
     <a href = "https://www.adobe.com/products/aftereffects.html"><img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects" alt="After Effects" width="20" height="20"/></a>&nbsp;
-    <a href = "https://www.adobe.com/products/illustrator.html"><img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="20" height="20"/></a>&nbsp;
-    <a href = "https://www.adobe.com/products/photoshop.html"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="20" height="20"/></a>&nbsp; 
+    <a href = "https://www.adobe.com/products/illustrator.html"><img src="adobeillustrator.svg" title="Illustrator" alt="Illustrator" width="20" height="20"/></a>&nbsp;
+    <a href = "https://www.adobe.com/products/photoshop.html"><img src="photoshop.png" title="Photoshop" alt="Photoshop" width="20" height="20"/></a>&nbsp; 
 <!--- - Open world videogames are my favorite type of games (favorites include Fallout 4, Far Cry 5, and Assassin's Creed Odyssey)
   - Favorite music genres include: Hip Hop, R&B, and 40s-60s Americana--->
   - Attended the 2023 FRC CHARGED UP Championship in Houston, Texas
