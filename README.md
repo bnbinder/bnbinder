@@ -81,7 +81,6 @@
   <a href = "https://html.spec.whatwg.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/></a>&nbsp; 
   <a href = "https://www.w3.org/TR/CSS/#css"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/></a>&nbsp;
   <a href = "https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/></a>&nbsp;
-  <a href = "https://react.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
   <a href = "https://racket-lang.org/"><img src = "racket.png" title="Racket" alt="Racket" width="40" height="40"/></a>&nbsp;
 </div>
 <br>
@@ -95,6 +94,7 @@
   <img src = dogtype.gif width="100"height="100"align="left" />
   
 <div id="header" align="center">
+    <a href = "https://react.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
   <a href = "https://huggingface.co/"><img src="huggingface-2.svg" title="HuggingFace" alt="HuggingFace" width="40" height="40"/></a>&nbsp;
   <a href = "https://www.arduino.cc/"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/></a>&nbsp;
   <a href = "https://expo.dev/"><img src="expo.png" title="Expo" alt="Expo" width="40" height="40"/></a>&nbsp;
