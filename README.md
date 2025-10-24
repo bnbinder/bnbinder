@@ -61,7 +61,7 @@
   <h1>What Am I Working On?</h1>
 </div>
   
-  - <h3>Im on <a href = "https://www.wpi.edu/project-based-learning/project-based-education/interactive-qualifying-project">IQP</a>!!! In iceland working for Norðurál, a major aluminum company!!!
+  - <h3>I am currently enrolled in CS3733 working on a react based website for class and also making my own personal website (in pinned)!!!!!! </h3>
   - <h3>Explore my pinned repositories to see what work i'm most proud of / currently working on</h3>
 
 <br>
