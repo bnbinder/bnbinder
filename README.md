@@ -62,7 +62,7 @@
   <h1>What Am I Working On?</h1>
 </div>
   
-  - <h3>I am currently enrolled in CS3733 working on a react based website for class and also making my own personal website (in pinned)!!!!!! </h3>
+  - <h3>Taking all my 4000 level cs classes and 3000 level math classes!!</h3>
   - <h3>Explore my pinned repositories to see what work i'm most proud of / currently working on</h3>
 
 <br>
