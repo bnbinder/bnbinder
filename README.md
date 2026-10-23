@@ -96,6 +96,11 @@
   
 <div id="header" align="center">
   <a href = "https://react.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>&nbsp;
+  <a href = ""><img src="portkey.webp" title="portkey" alt="portkey" width="40" height="40"/></a>&nbsp;
+  <a href = ""><img src="docker.png" title="docker" alt="docker" width="40" height="40"/></a>&nbsp;
+  <a href = ""><img src="psql.webp" title="psql" alt="psql" width="40" height="40"/></a>&nbsp;
+  <a href = ""><img src="nextjs.png" title="next.js" alt="next.js" width="40" height="40"/></a>&nbsp;
+  <a href = ""><img src="figma" title="figma" alt="figma" width="40" height="40"/></a>&nbsp;
   <a href = "https://aws.amazon.com/"><img src="aws.png" title="AWS" alt="AWS" width="40" height="40"/></a>&nbsp;
   <a href = "https://www.mysql.com/"><img src="mysql.png" title="MySQL" alt="MySQL" width="40" height="40"/></a>&nbsp;
   <a href = "https://huggingface.co/"><img src="huggingface-2.svg" title="HuggingFace" alt="HuggingFace" width="40" height="40"/></a>&nbsp;
